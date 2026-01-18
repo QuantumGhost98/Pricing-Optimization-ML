@@ -34,10 +34,10 @@ The dataset contains ~12,800 orders and ~735 customers with the following key co
 
 | Model | Test R² | Notes |
 |-------|---------|-------|
-| Linear Regression | 0.28 | Baseline model |
-| Decision Tree | 0.74 | Depth limited to 5 |
-| Random Forest | 0.80 | 100 estimators |
-| **XGBoost** | **0.85+** | Best performance with customer features |
+| Linear Regression | 0.63 | Baseline model |
+| Decision Tree | 0.75 | Depth limited to 5 |
+| Random Forest | 0.87 | 100 estimators, depth 10 |
+| **XGBoost** | **0.88** | Best performance with customer features |
 
 ## Quick Start
 
