@@ -52,11 +52,15 @@ jupyter notebook pricing_optimization.ipynb
 ## Project Structure
 
 ```
-├── pricing_optimization.ipynb  # Main analysis notebook
-├── customer_df.csv             # Customer attributes
-├── order_df.csv                # Historical orders
-├── inference_df.csv            # New orders for prediction
-├── requirements.txt            # Python dependencies
+├── notebooks/
+│   └── pricing_optimization.ipynb  # Main analysis notebook
+├── data/
+│   ├── customer_df.csv             # Customer attributes
+│   ├── order_df.csv                # Historical orders
+│   └── inference/
+│       ├── inference_df.csv        # New orders for prediction
+│       └── inference_predicted.csv # Predictions output
+├── requirements.txt
 └── README.md
 ```
 
