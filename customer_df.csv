@@ -1,0 +1,735 @@
+container_service_flag,pallet_handling_flag,deposit_flag,credit_limit,term_code,industry_name,major_group_code,customer_id
+Y,Y,Y,300000.0,01,Others,33.0,C84
+N,N,N,0.0,60,Others,33.0,C13
+N,N,Y,75000.0,45,Pharma,38.0,C408
+N,N,N,120000.0,01,Water Treatment,49.0,C289
+Y,Y,Y,65000.0,CIA,Food,20.0,C278
+N,P,N,400000.0,60,Chemical Processing,28.0,C562
+N,N,N,0.0,CIA,Pharma,28.0,C660
+N,N,N,400000.0,01,Others,40.0,C36
+N,P,Y,0.0,CIA,Others,35.0,C516
+N,N,N,95000.0,45,Others,49.0,C62
+Y,N,Y,0.0,CIA,Construction,32.0,C396
+N,N,N,100000.0,D245,Others,36.0,C575
+Y,N,Y,200000.0,01,CASE,28.0,C492
+N,P,N,45000.0,D02,Pharma,38.0,C38
+Y,Y,Y,0.0,02,Others,39.0,C181
+N,N,N,150000.0,45,Pulp & Paper,26.0,C464
+Y,Y,Y,0.0,01,Cosmetics,28.0,C259
+N,N,Y,0.0,02,Cosmetics,28.0,C614
+N,N,Y,75000.0,01,Others,49.0,C40
+N,P,E,20000.0,01,Others,52.0,C673
+Y,Y,Y,5000.0,CC,Others,39.0,C727
+Y,Y,Y,150000.0,01,Others,35.0,C230
+N,N,N,20000.0,45,Others,52.0,C76
+N,N,N,0.0,60,Others,22.0,C156
+N,N,N,150000.0,01,Chemical Processing,28.0,C730
+N,N,N,40000.0,01,Others,34.0,C286
+N,N,N,150000.0,01,CASE,28.0,C164
+N,N,Y,20000.0,01,Cleaning (I&I),28.0,C648
+N,N,N,290000.0,45,Chemical Processing,28.0,C213
+Y,N,Y,215000.0,01,Others,39.0,C39
+N,N,N,75000.0,60,Cleaning (I&I),28.0,C173
+N,N,N,25000.0,01,Construction,32.0,C470
+N,N,N,200000.0,45,Chemical Processing,28.0,C321
+N,N,N,55000.0,01,Cleaning (I&I),28.0,C524
+N,N,Y,16000.0,01,Others,49.0,C309
+N,N,Y,0.0,CC,Others,52.0,C374
+N,N,Y,65000.0,01,Others,33.0,C308
+N,N,N,0.0,BNKR,Others,39.0,C240
+N,N,N,70000.0,45,Water Treatment,28.0,C658
+N,N,Y,0.0,BNKR,Cleaning (I&I),28.0,C551
+N,N,N,75000.0,01,Agrobusiness,28.0,C251
+N,N,N,0.0,45,Others,27.0,C343
+Y,N,N,50000.0,60,Others,33.0,C86
+Y,Y,Y,60000.0,01,Others,52.0,C163
+N,N,N,0.0,01,CASE,28.0,C722
+N,N,N,60000.0,01,CASE,28.0,C690
+N,N,N,300000.0,01,Others,49.0,C34
+N,P,E,20000.0,01,Chemical Processing,28.0,C530
+Y,N,Y,0.0,CC,Construction,32.0,C625
+N,N,N,0.0,45,Others,49.0,C92
+N,P,E,20000.0,01,Water Treatment,28.0,C15
+Y,N,Y,50000.0,01,Food,28.0,C403
+N,N,N,0.0,45,Food,20.0,C398
+N,P,E,300000.0,30,Cleaning (I&I),28.0,C583
+Y,Y,Y,15000.0,01,Others,27.0,C119
+N,N,N,40000.0,01,CASE,28.0,C700
+N,N,N,85000.0,D01,Pulp & Paper,26.0,C567
+N,N,Y,380000.0,CIA,Agrobusiness,28.0,C172
+N,N,N,750000.0,45,Others,39.0,C377
+N,N,N,50000.0,01,Cleaning (I&I),28.0,C442
+N,Y,N,35000.0,01,Others,39.0,C217
+N,N,N,100000.0,01,Water Treatment,28.0,C451
+N,N,N,80000.0,45,CASE,28.0,C360
+N,N,N,0.0,01,Others,33.0,C417
+N,N,N,100000.0,45,Food,20.0,C4
+N,N,N,85000.0,01,Energy Services,13.0,C159
+N,N,N,0.0,01,CASE,28.0,C418
+N,N,N,0.0,01,Pulp & Paper,26.0,C316
+N,P,E,0.0,01,Others,52.0,C297
+N,P,E,150000.0,01,Agrobusiness,28.0,C336
+N,N,N,0.0,01,Others,49.0,C175
+N,N,N,25000.0,01,Others,39.0,C597
+N,N,N,25000.0,01,Others,36.0,C113
+N,N,N,40000.0,01,Others,39.0,C570
+N,N,N,30000.0,01,Others,39.0,C150
+N,P,N,2540000.0,60,Others,22.0,C454
+N,N,N,0.0,CIA,CASE,28.0,C484
+N,P,N,8500.0,01,Cleaning (I&I),28.0,C508
+N,N,N,1500000.0,EOAP,Chemical Processing,28.0,C710
+N,N,N,50000.0,01,CASE,28.0,C405
+N,P,E,75000.0,01,Cleaning (I&I),28.0,C626
+N,N,N,30000.0,01,Others,33.0,C510
+N,N,N,200000.0,P28,Chemical Processing,28.0,C152
+N,N,N,100000.0,60,Cosmetics,28.0,C204
+N,N,N,55000.0,01,Food,20.0,C344
+N,N,E,60000.0,01,Cleaning (I&I),28.0,C561
+N,N,N,0.0,CIA,Construction,32.0,C642
+N,Y,Y,40000.0,01,Animal Nutrition,20.0,C509
+N,N,N,150000.0,45,Food,20.0,C359
+N,N,N,185000.0,01,Others,34.0,C507
+N,N,N,100000.0,01,Others,39.0,C9
+N,N,N,125000.0,01,Others,34.0,C97
+N,N,N,35000.0,01,Others,39.0,C576
+N,N,N,0.0,01,Agrobusiness,28.0,C664
+N,Y,Y,100000.0,01,Chemical Processing,28.0,C542
+N,N,N,50000.0,60,Chemical Processing,28.0,C647
+N,P,E,75000.0,01,Chemical Processing,28.0,C121
+N,N,N,10000.0,01,CASE,28.0,C379
+N,N,N,0.0,01,Others,0.0,C674
+N,N,N,1000000.0,01,Others,0.0,C273
+N,N,N,200000.0,60,Chemical Processing,28.0,C595
+N,N,N,150000.0,60,Others,33.0,C96
+N,N,N,150000.0,01,Others,39.0,C174
+N,N,N,50000.0,45,Others,40.0,C91
+N,N,N,0.0,60,Others,22.0,C283
+N,N,N,50000.0,60,Others,52.0,C238
+N,N,N,0.0,60,Water Treatment,28.0,C197
+N,N,N,65000.0,60,Others,39.0,C493
+N,N,N,150000.0,01,Others,51.0,C65
+N,N,N,150000.0,45,Chemical Processing,28.0,C47
+N,N,N,7500.0,01,Water Treatment,28.0,C581
+N,P,E,100000.0,01,Cleaning (I&I),28.0,C406
+N,N,N,450000.0,45,Water Treatment,28.0,C94
+N,N,N,110000.0,01,Cosmetics,28.0,C669
+N,P,E,125000.0,01,CASE,28.0,C215
+N,N,N,125000.0,01,CASE,28.0,C287
+Y,P,E,90000.0,01,Water Treatment,49.0,C229
+N,N,N,2500.0,01,Others,39.0,C703
+N,P,N,75000.0,01,Chemical Processing,28.0,C473
+N,P,E,60000.0,01,Cleaning (I&I),28.0,C182
+Y,Y,Y,0.0,01,Others,39.0,C133
+N,N,N,0.0,01,Others,39.0,C644
+N,P,E,0.0,01,CASE,28.0,C463
+N,N,N,0.0,D02,Cleaning (I&I),28.0,C177
+N,P,Y,0.0,20,Others,51.0,C337
+N,N,N,600000.0,60,Cleaning (I&I),28.0,C200
+Y,P,Y,0.0,CIA,Construction,32.0,C290
+N,N,N,250000.0,01,Chemical Processing,28.0,C373
+N,N,N,450000.0,75,Others,33.0,C252
+N,N,N,250000.0,01,Cleaning (I&I),28.0,C652
+N,N,Y,4999.0,01,Construction,32.0,C42
+N,P,N,0.0,45,Others,27.0,C16
+N,P,E,35000.0,01,CASE,28.0,C357
+N,N,N,5000.0,01,Cosmetics,28.0,C161
+N,N,N,40000.0,01,Water Treatment,49.0,C26
+N,N,N,300000.0,D45,Others,35.0,C233
+N,N,Y,0.0,02,Others,52.0,C302
+Y,N,N,0.0,01,Chemical Processing,28.0,C565
+N,N,N,700000.0,60,Others,33.0,C192
+N,N,N,200000.0,01,Others,39.0,C333
+Y,Y,Y,5000.0,P28,Agrobusiness,28.0,C651
+N,P,E,175000.0,45,Cleaning (I&I),28.0,C30
+N,N,N,45000.0,01,Cleaning (I&I),28.0,C241
+N,N,N,5000.0,01,CASE,28.0,C203
+N,N,N,50000.0,D01,CASE,28.0,C423
+N,N,N,50000.0,01,Rubber,30.0,C552
+N,N,E,0.0,CIA,Others,39.0,C196
+N,N,Y,65000.0,01,Others,49.0,C46
+N,P,E,250000.0,D01,CASE,28.0,C390
+N,P,Y,150000.0,01,Chemical Processing,28.0,C678
+N,N,N,45000.0,01,Cleaning (I&I),28.0,C489
+N,N,N,100000.0,01,Chemical Processing,28.0,C662
+N,N,N,0.0,01,Cleaning (I&I),28.0,C465
+N,N,N,0.0,CIA,Cleaning (I&I),28.0,C563
+N,N,N,75000.0,D 15,Others,36.0,C17
+Y,Y,Y,20000.0,01,Others,33.0,C448
+N,N,N,70000.0,01,Others,40.0,C35
+N,N,N,25000.0,01,Others,33.0,C371
+N,P,N,40000.0,01,Others,22.0,C271
+N,P,E,15000.0,60,Others,35.0,C615
+N,Y,N,300000.0,01,Mining,10.0,C153
+N,P,E,30000.0,60,Others,34.0,C60
+N,N,N,200000.0,60,Others,35.0,C165
+N,P,E,75000.0,D01,Cleaning (I&I),28.0,C596
+N,N,N,45000.0,01,Others,39.0,C591
+N,N,N,40000.0,D01,CASE,28.0,C340
+N,N,N,50000.0,01,Food,20.0,C434
+Y,N,Y,0.0,BNKR,CASE,28.0,C370
+N,P,E,300000.0,60,CASE,28.0,C135
+Y,N,N,0.0,01,Cleaning (I&I),28.0,C404
+N,N,N,0.0,CC,Cleaning (I&I),28.0,C545
+N,N,N,0.0,CIA,Cleaning (I&I),28.0,C391
+N,N,N,0.0,CC,Cleaning (I&I),28.0,C553
+N,N,N,25000.0,01,Cleaning (I&I),28.0,C527
+Y,Y,Y,0.0,01,Cleaning (I&I),28.0,C560
+Y,N,N,25000.0,01,Others,34.0,C58
+N,N,N,300000.0,45,Cleaning (I&I),28.0,C620
+N,P,E,0.0,01,Cleaning (I&I),28.0,C653
+N,P,E,30000.0,01,Cleaning (I&I),28.0,C414
+N,P,E,65000.0,D01,Pulp & Paper,26.0,C712
+N,N,N,0.0,CC,Chemical Processing,28.0,C430
+N,N,N,0.0,01,Cleaning (I&I),28.0,C354
+N,N,N,0.0,01,Agrobusiness,28.0,C482
+N,N,N,0.0,45,Others,36.0,C338
+N,N,N,50000.0,45,Food,20.0,C628
+Y,Y,Y,500000.0,45,Chemical Processing,28.0,C124
+N,N,N,250000.0,45,CASE,28.0,C485
+N,N,Y,25000.0,01,Others,39.0,C128
+N,N,N,75000.0,45,Others,39.0,C517
+N,N,Y,50000.0,01,Cosmetics,28.0,C519
+N,N,N,75000.0,01,Pharma,28.0,C29
+N,N,N,0.0,60,Cleaning (I&I),28.0,C95
+N,N,N,50000.0,01,Water Treatment,28.0,C603
+N,N,N,2000.0,D45,Others,35.0,C191
+N,N,N,0.0,01,Others,35.0,C22
+N,N,N,0.0,01,Chemical Processing,28.0,C210
+Y,P,E,16000.0,01,Energy Services,13.0,C346
+N,N,N,30000.0,01,Others,52.0,C569
+Y,Y,Y,0.0,CC,Cosmetics,28.0,C709
+N,N,N,30000.0,D15,Chemical Processing,28.0,C574
+N,N,Y,55000.0,45,Others,39.0,C48
+N,N,N,250000.0,01,Cosmetics,28.0,C254
+N,N,N,20000.0,01,Others,22.0,C689
+N,N,N,125000.0,60,Others,39.0,C14
+N,Y,N,35000.0,01,Energy Services,13.0,C617
+N,N,Y,0.0,01,Food,20.0,C675
+N,N,N,0.0,01,Water Treatment,28.0,C329
+N,P,E,25000.0,01,Others,39.0,C555
+N,P,E,100000.0,60,Others,22.0,C670
+N,N,N,0.0,01,Cleaning (I&I),28.0,C305
+Y,N,Y,0.0,01,Others,39.0,C672
+N,N,Y,150000.0,01,Pharma,38.0,C114
+Y,Y,Y,47000.0,01,Pharma,51.0,C416
+N,N,Y,0.0,CC,Pharma,28.0,C389
+N,N,Y,5000.0,01,Water Treatment,28.0,C501
+N,N,N,250000.0,01,Water Treatment,49.0,C168
+N,P,N,0.0,60,Others,22.0,C154
+N,N,N,0.0,01,Others,49.0,C106
+N,N,N,0.0,01,Polymers,28.0,C325
+Y,Y,Y,60000.0,01,CASE,28.0,C514
+N,N,Y,0.0,01,Chemical Processing,28.0,C219
+N,N,N,0.0,01,Chemical Processing,28.0,C85
+N,N,N,75000.0,01,Chemical Processing,28.0,C425
+N,P,E,10000.0,30,Others,22.0,C361
+N,N,N,625000.0,60,Others,35.0,C132
+N,N,N,25000.0,01,Cleaning (I&I),28.0,C538
+N,N,N,0.0,01,Others,49.0,C32
+N,N,N,0.0,01,Others,36.0,C431
+N,N,E,0.0,01,Others,52.0,C280
+N,P,N,2000.0,01,Others,39.0,C468
+N,N,N,0.0,01,Others,39.0,C129
+N,N,N,0.0,01,Cleaning (I&I),28.0,C262
+N,N,Y,0.0,45,Others,36.0,C505
+N,P,E,0.0,01,Cleaning (I&I),28.0,C394
+Y,Y,Y,0.0,01,Others,39.0,C699
+N,P,E,50000.0,45,Others,52.0,C296
+N,N,N,0.0,60,Others,33.0,C378
+N,P,N,0.0,01,Others,39.0,C166
+N,N,E,50000.0,01,Food,20.0,C178
+N,P,N,65000.0,01,Others,34.0,C420
+N,N,N,10000.0,01,Others,52.0,C488
+N,N,N,0.0,01,Polymers,28.0,C256
+Y,N,Y,0.0,01,Construction,32.0,C136
+N,N,N,10000.0,01,Cleaning (I&I),28.0,C649
+N,N,N,15000.0,01,Cleaning (I&I),28.0,C10
+N,N,N,15000.0,60,Chemical Processing,28.0,C515
+N,N,N,50000.0,01,Others,90.0,C2
+N,N,N,0.0,02,Polymers,28.0,C571
+N,N,Y,0.0,01,Chemical Processing,28.0,C218
+Y,N,Y,0.0,02,Others,39.0,C714
+Y,Y,Y,700000.0,45,Mining,10.0,C301
+Y,Y,Y,75000.0,01,Others,49.0,C521
+Y,Y,Y,15000.0,01,Construction,32.0,C668
+Y,Y,Y,35000.0,01,Others,52.0,C231
+Y,Y,Y,0.0,CIA,CASE,28.0,C688
+Y,Y,Y,5000.0,01,Others,39.0,C476
+N,N,N,125000.0,01,Energy Services,13.0,C320
+N,N,N,0.0,CC,Cleaning (I&I),28.0,C592
+Y,Y,Y,0.0,01,Others,39.0,C654
+Y,Y,Y,750000.0,60,Pharma,28.0,C112
+Y,Y,Y,5000.0,01,Others,52.0,C503
+N,N,N,275000.0,01,Cleaning (I&I),28.0,C313
+Y,Y,Y,0.0,CC,Cosmetics,28.0,C554
+Y,Y,Y,0.0,01,Others,27.0,C717
+Y,Y,Y,5000.0,01,Others,39.0,C641
+N,N,N,30000.0,01,Cosmetics,28.0,C656
+N,N,N,0.0,01,Others,39.0,C634
+Y,Y,Y,0.0,CIA,Others,39.0,C419
+Y,Y,Y,0.0,01,Others,52.0,C707
+Y,Y,Y,0.0,01,Cosmetics,28.0,C518
+Y,Y,Y,0.0,01,Others,39.0,C684
+N,N,N,0.0,01,Others,39.0,C328
+Y,Y,Y,0.0,01,Food,20.0,C681
+Y,Y,Y,15000.0,01,Cosmetics,28.0,C483
+N,N,E,0.0,15,Others,39.0,C549
+N,N,Y,0.0,01,Others,34.0,C117
+Y,Y,Y,10000.0,01,Others,39.0,C255
+N,N,N,50000.0,01,Polymers,28.0,C622
+N,N,N,40000.0,01,Water Treatment,28.0,C593
+N,N,N,7500.0,01,Water Treatment,28.0,C413
+N,N,Y,150000.0,D01,Cleaning (I&I),28.0,C228
+N,N,E,15000.0,01,Water Treatment,28.0,C426
+N,N,N,150000.0,01,CASE,28.0,C541
+N,N,E,90000.0,01,Others,39.0,C369
+Y,Y,Y,0.0,01,Others,33.0,C326
+N,N,Y,0.0,01,Others,52.0,C511
+N,Y,N,5000.0,01,Others,35.0,C137
+Y,Y,Y,0.0,01,Construction,32.0,C636
+N,N,N,0.0,01,CASE,28.0,C432
+N,N,N,50000.0,01,Others,39.0,C364
+N,N,N,30000.0,01,Others,39.0,C637
+N,N,N,2500.0,01,Others,39.0,C705
+Y,Y,Y,0.0,01,Others,39.0,C638
+Y,N,Y,0.0,CIA,Others,33.0,C676
+Y,Y,Y,0.0,01,Others,39.0,C234
+Y,Y,Y,75000.0,01,CASE,28.0,C696
+N,N,N,0.0,01,CASE,28.0,C491
+Y,Y,Y,5000.0,01,Others,39.0,C466
+N,N,N,0.0,01,Others,39.0,C8
+N,N,N,5000.0,01,CASE,28.0,C3
+N,N,E,0.0,COLL,Cosmetics,28.0,C612
+Y,Y,Y,1.0,CC,Others,39.0,C267
+Y,Y,Y,5000.0,01,CASE,28.0,C190
+N,N,N,0.0,CIA,Agrobusiness,28.0,C572
+Y,Y,Y,500000.0,01,Others,39.0,C480
+Y,Y,Y,25000.0,01,Others,39.0,C461
+N,N,N,0.0,01,Others,39.0,C395
+N,N,N,300000.0,45,Chemical Processing,28.0,C383
+N,N,Y,0.0,01,Others,52.0,C680
+Y,Y,Y,0.0,CC,Cosmetics,28.0,C170
+N,N,N,300000.0,45,Others,27.0,C101
+Y,Y,N,175000.0,01,Chemical Processing,28.0,C502
+Y,Y,Y,0.0,01,Food,20.0,C392
+Y,Y,Y,0.0,01,Others,34.0,C381
+Y,Y,Y,0.0,02,Others,35.0,C472
+Y,Y,Y,150000.0,D01,Cleaning (I&I),28.0,C201
+Y,Y,Y,0.0,01,Mining,10.0,C725
+Y,N,Y,0.0,01,Others,39.0,C726
+N,Y,N,80000.0,01,Others,39.0,C693
+N,N,Y,0.0,CC,Cleaning (I&I),28.0,C605
+N,N,N,0.0,01,Others,39.0,C385
+N,N,N,5000.0,01,Others,39.0,C447
+N,N,N,5000.0,01,Cosmetics,28.0,C185
+N,N,Y,0.0,CC,CASE,28.0,C715
+N,N,N,0.0,CC,Cleaning (I&I),28.0,C116
+N,N,N,0.0,01,CASE,28.0,C410
+N,P,E,21000.0,01,Others,35.0,C540
+N,N,N,20000.0,01,CASE,28.0,C701
+Y,Y,Y,5000.0,01,Others,35.0,C608
+Y,N,Y,0.0,CIA,Cleaning (I&I),28.0,C528
+Y,Y,Y,0.0,01,Energy Services,13.0,C189
+N,N,N,125000.0,D01,CASE,28.0,C160
+N,Y,N,0.0,D01,CASE,28.0,C610
+N,N,N,0.0,CIA,Others,39.0,C496
+Y,Y,Y,0.0,01,Others,39.0,C436
+Y,Y,Y,5000.0,01,Others,39.0,C212
+N,N,N,0.0,CIA,Others,39.0,C421
+N,N,N,25000.0,01,CASE,28.0,C440
+N,N,N,0.0,01,Others,35.0,C315
+N,N,N,5000.0,01,Others,34.0,C93
+N,N,N,800000.0,01,Pulp & Paper,26.0,C347
+Y,N,Y,0.0,01,CASE,28.0,C573
+N,P,N,25000.0,01,Others,35.0,C618
+N,N,N,0.0,01,Others,36.0,C158
+Y,Y,Y,50000.0,01,Chemical Processing,28.0,C609
+N,N,N,0.0,01,CASE,28.0,C687
+N,N,N,10000.0,01,Water Treatment,28.0,C697
+N,N,N,25000.0,45,Others,34.0,C227
+N,N,N,7500.0,01,Others,35.0,C131
+N,N,N,60000.0,01,CASE,28.0,C11
+N,N,N,10000.0,01,CASE,28.0,C351
+N,N,N,300000.0,01,Chemical Processing,28.0,C449
+N,N,N,15000.0,01,Others,22.0,C243
+N,N,N,200000.0,01,Others,39.0,C142
+Y,Y,Y,0.0,01,Others,52.0,C104
+Y,Y,Y,0.0,01,Others,34.0,C387
+N,N,N,50000.0,01,Others,39.0,C353
+Y,N,Y,0.0,01,Water Treatment,28.0,C270
+N,N,N,20000.0,01,CASE,28.0,C539
+Y,Y,Y,0.0,01,Others,40.0,C679
+Y,Y,Y,10000.0,01,Polymers,28.0,C260
+N,Y,E,0.0,COLL,Others,35.0,C352
+Y,Y,Y,0.0,01,Others,39.0,C467
+N,N,N,0.0,01,Others,39.0,C606
+N,N,Y,10000.0,01,CASE,28.0,C621
+N,N,N,0.0,01,Water Treatment,49.0,C69
+Y,Y,Y,0.0,01,Others,39.0,C543
+Y,Y,Y,0.0,01,Others,49.0,C650
+N,N,N,25000.0,01,Others,39.0,C556
+N,Y,N,20000.0,01,Agrobusiness,28.0,C635
+Y,N,Y,10000.0,01,Polymers,28.0,C111
+N,N,N,0.0,01,Others,39.0,C624
+Y,Y,Y,5000.0,01,Others,49.0,C71
+N,N,N,0.0,01,Others,39.0,C631
+N,N,N,20000.0,01,Others,34.0,C495
+N,N,N,25000.0,01,Others,39.0,C444
+Y,N,N,15000.0,01,Others,39.0,C317
+Y,Y,Y,15000.0,60,Chemical Processing,28.0,C18
+Y,Y,Y,0.0,CC,Chemical Processing,28.0,C180
+N,N,N,20000.0,01,Pharma,38.0,C512
+N,N,N,300000.0,01,Cleaning (I&I),28.0,C580
+N,N,N,0.0,01,Others,34.0,C323
+Y,N,Y,0.0,CC,Others,35.0,C685
+N,N,Y,45000.0,01,CASE,28.0,C382
+N,N,N,25000.0,01,Others,39.0,C80
+N,N,Y,0.0,01,Agrobusiness,28.0,C611
+N,N,E,20000.0,01,Others,52.0,C462
+N,N,N,0.0,01,Others,39.0,C78
+N,N,N,0.0,01,Construction,32.0,C281
+N,N,N,0.0,01,Cleaning (I&I),28.0,C559
+N,N,N,0.0,CC,Others,36.0,C245
+N,N,Y,0.0,01,Food,28.0,C400
+N,N,N,0.0,D01,Others,39.0,C130
+N,N,E,0.0,01,CASE,28.0,C314
+N,N,N,0.0,01,Cleaning (I&I),28.0,C629
+N,N,Y,25000.0,01,Cosmetics,28.0,C481
+Y,P,Y,15000.0,01,Rubber,30.0,C67
+N,N,N,200000.0,45,CASE,28.0,C157
+N,P,E,175000.0,45,Chemical Processing,28.0,C63
+N,P,E,150000.0,01,Chemical Processing,28.0,C209
+N,N,N,0.0,45,Mining,10.0,C683
+N,P,E,125000.0,01,Cleaning (I&I),28.0,C304
+N,P,E,75000.0,01,Cleaning (I&I),28.0,C248
+N,Y,N,450000.0,45,Pulp & Paper,26.0,C319
+N,N,N,750000.0,D 60,Pulp & Paper,26.0,C368
+Y,Y,Y,0.0,01,Construction,32.0,C171
+Y,Y,Y,5000.0,01,Others,51.0,C504
+N,N,Y,0.0,01,Others,35.0,C427
+Y,Y,E,25000.0,01,Others,34.0,C330
+N,N,E,100000.0,CIA,CASE,28.0,C547
+N,P,N,22500.0,45,CASE,28.0,C412
+N,P,N,0.0,60,Cleaning (I&I),28.0,C733
+Y,P,E,40000.0,01,CASE,28.0,C632
+N,Y,E,0.0,01,CASE,28.0,C558
+N,N,N,0.0,01,Others,52.0,C275
+N,N,N,100000.0,01,Polymers,28.0,C268
+N,P,N,90000.0,45,Others,36.0,C110
+N,N,N,0.0,D60,Polymers,28.0,C534
+Y,P,E,125000.0,01,Others,22.0,C536
+Y,Y,Y,10000.0,01,Construction,32.0,C184
+N,P,E,75000.0,60,Cleaning (I&I),28.0,C291
+N,N,E,0.0,01,Others,49.0,C494
+N,N,N,0.0,01,Others,35.0,C299
+Y,Y,Y,0.0,CIA,Others,39.0,C237
+N,P,E,65000.0,01,Cleaning (I&I),28.0,C582
+N,P,N,150000.0,45,Chemical Processing,28.0,C226
+N,P,N,50000.0,D15,Others,22.0,C220
+N,N,E,25000.0,01,Food,21.0,C548
+N,P,N,20000.0,D35,Others,39.0,C646
+N,P,E,80000.0,01,Chemical Processing,28.0,C54
+Y,Y,E,50000.0,01,Construction,32.0,C363
+N,P,N,125000.0,01,Chemical Processing,28.0,C294
+Y,P,Y,0.0,CIA,Others,39.0,C723
+N,N,N,50000.0,01,Cleaning (I&I),28.0,C356
+N,N,E,200000.0,01,Chemical Processing,28.0,C90
+N,P,E,450000.0,45,CASE,28.0,C365
+N,P,E,30000.0,60,Others,22.0,C179
+N,P,N,50000.0,45,Cleaning (I&I),28.0,C479
+N,P,N,100000.0,01,Cleaning (I&I),28.0,C74
+Y,P,E,0.0,01,Others,35.0,C695
+N,P,E,15000.0,01,Pulp & Paper,26.0,C59
+N,P,E,75000.0,01,Others,35.0,C348
+N,P,E,85000.0,45,Others,34.0,C144
+N,P,E,150000.0,01,Cosmetics,28.0,C550
+N,P,E,0.0,01,Cleaning (I&I),28.0,C667
+N,P,N,17500.0,01,Cleaning (I&I),28.0,C311
+N,N,Y,2500.0,01,Others,33.0,C310
+N,P,E,25000.0,01,Chemical Processing,28.0,C139
+Y,Y,Y,950000.0,45,Cleaning (I&I),28.0,C37
+N,P,N,400000.0,01,CASE,28.0,C222
+N,N,E,200000.0,01,Cleaning (I&I),28.0,C686
+N,P,E,50000.0,D01,CASE,28.0,C126
+Y,Y,Y,0.0,01,Polymers,28.0,C148
+N,N,Y,0.0,01,Rubber,30.0,C331
+Y,P,E,10000.0,01,Others,35.0,C20
+Y,P,Y,0.0,01,Others,35.0,C433
+N,N,N,15000.0,01,Others,49.0,C53
+N,P,N,0.0,CIA,Others,36.0,C143
+N,P,Y,250000.0,60,Pharma,28.0,C455
+N,N,Y,0.0,01,Cosmetics,28.0,C520
+N,N,N,50000.0,01,Others,51.0,C72
+Y,Y,E,0.0,01,Agrobusiness,28.0,C734
+N,P,E,650000.0,01,Pharma,28.0,C529
+Y,P,E,0.0,01,Cosmetics,28.0,C362
+N,P,Y,20000.0,01,Pharma,28.0,C70
+N,P,N,25000.0,01,Others,35.0,C671
+N,P,N,25000.0,01,CASE,28.0,C698
+N,N,Y,10000.0,60,Others,40.0,C98
+N,P,E,0.0,60,Others,35.0,C564
+N,N,N,0.0,45,Cleaning (I&I),28.0,C56
+N,N,N,25000.0,15,Cleaning (I&I),28.0,C478
+N,N,N,65000.0,01,Chemical Processing,28.0,C372
+Y,Y,Y,7500.0,01,Others,36.0,C162
+N,N,N,300000.0,45,Water Treatment,49.0,C393
+N,Y,E,10000.0,60,Energy Services,13.0,C441
+N,P,E,0.0,01,Others,39.0,C728
+N,P,E,0.0,01,Others,39.0,C663
+N,P,E,80000.0,01,CASE,28.0,C147
+N,P,E,0.0,01,Polymers,28.0,C729
+N,P,N,800000.0,75,Cosmetics,28.0,C145
+N,P,E,175000.0,45,CASE,28.0,C657
+Y,Y,Y,0.0,01,Energy Services,13.0,C277
+N,P,N,25000.0,01,Others,52.0,C25
+Y,Y,Y,0.0,01,Others,35.0,C105
+N,N,E,10000.0,45,Chemical Processing,28.0,C388
+N,N,N,0.0,01,Others,22.0,C459
+N,P,Y,5000.0,01,Chemical Processing,28.0,C497
+N,N,N,300000.0,01,Chemical Processing,28.0,C188
+N,P,N,125000.0,45,Others,34.0,C79
+Y,Y,E,0.0,01,Others,36.0,C88
+Y,P,Y,0.0,CIA,Cosmetics,28.0,C169
+N,P,E,50000.0,01,Others,35.0,C207
+N,N,N,5000.0,D01,Polymers,28.0,C100
+N,N,N,250000.0,01,CASE,28.0,C499
+Y,Y,Y,4000.0,01,Others,40.0,C123
+N,P,E,225000.0,D45,CASE,28.0,C127
+N,P,E,100000.0,01,Chemical Processing,28.0,C205
+N,P,N,0.0,01,Rubber,30.0,C711
+Y,Y,Y,50000.0,01,CASE,28.0,C307
+N,P,Y,10000.0,01,CASE,28.0,C401
+N,N,N,20000.0,01,Others,39.0,C429
+N,Y,N,0.0,01,CASE,28.0,C587
+N,P,N,25000.0,01,Others,40.0,C103
+N,N,E,275000.0,D01,Cleaning (I&I),28.0,C151
+N,P,E,0.0,CIA,Others,36.0,C208
+Y,Y,Y,5000.0,01,Others,39.0,C350
+N,P,N,30000.0,01,Others,22.0,C257
+Y,Y,Y,50000.0,01,Rubber,30.0,C366
+N,P,N,0.0,01,CASE,28.0,C266
+N,P,N,0.0,01,Chemical Processing,28.0,C415
+N,P,Y,10000.0,01,Others,22.0,C702
+N,P,E,15000.0,01,Others,39.0,C99
+N,P,N,35000.0,01,Agrobusiness,28.0,C108
+N,P,N,65000.0,D45,Others,27.0,C424
+Y,Y,Y,0.0,02,Others,36.0,C590
+N,P,N,25000.0,01,Polymers,28.0,C399
+N,N,N,0.0,01,Others,22.0,C87
+Y,Y,Y,0.0,01,Others,22.0,C639
+N,N,N,10000.0,01,Others,39.0,C187
+N,N,Y,50000.0,01,Others,39.0,C223
+N,N,Y,150000.0,01,CASE,28.0,C68
+N,N,N,0.0,01,Others,39.0,C445
+N,N,N,125000.0,45,Others,34.0,C149
+N,N,N,25000.0,45,Others,40.0,C402
+N,N,N,5000.0,01,Cosmetics,28.0,C349
+Y,N,Y,5000.0,01,Others,27.0,C81
+N,N,N,0.0,01,Others,40.0,C579
+Y,Y,Y,0.0,01,Others,39.0,C577
+N,N,N,0.0,CC,Cleaning (I&I),28.0,C460
+N,N,N,0.0,01,Others,39.0,C498
+N,N,N,45000.0,45,Others,49.0,C601
+N,N,Y,0.0,01,Others,33.0,C176
+N,Y,N,0.0,CIA,Others,33.0,C312
+N,Y,N,30000.0,D01,Agrobusiness,28.0,C619
+N,N,N,300000.0,01,Food,20.0,C44
+N,N,N,0.0,CC,Others,34.0,C239
+Y,Y,Y,15000.0,10,Construction,32.0,C523
+Y,Y,Y,0.0,01,Others,34.0,C306
+N,N,N,0.0,CC,Chemical Processing,28.0,C89
+N,Y,N,0.0,CC,Others,39.0,C666
+N,N,N,35000.0,01,Others,34.0,C643
+N,N,N,0.0,01,Cosmetics,28.0,C557
+N,N,N,22000.0,01,Others,34.0,C439
+N,N,N,75000.0,01,Cleaning (I&I),28.0,C125
+N,N,N,5000.0,01,CASE,28.0,C274
+N,N,N,0.0,01,Others,39.0,C52
+N,N,N,0.0,01,Energy Services,13.0,C23
+N,N,N,35000.0,D01,Chemical Processing,28.0,C293
+N,Y,N,0.0,01,Water Treatment,28.0,C83
+N,N,N,0.0,01,Others,34.0,C522
+N,N,N,0.0,01,Polymers,28.0,C7
+N,N,N,0.0,01,Chemical Processing,28.0,C719
+N,N,N,60000.0,01,Energy Services,13.0,C437
+N,N,N,200000.0,01,CASE,28.0,C537
+N,N,N,84000.0,D11,Chemical Processing,28.0,C282
+N,N,N,0.0,01,Cleaning (I&I),28.0,C411
+N,N,N,75000.0,01,Cosmetics,28.0,C640
+N,N,N,30000.0,01,Others,34.0,C694
+N,N,Y,0.0,01,Others,49.0,C194
+N,N,N,75000.0,01,Chemical Processing,28.0,C272
+N,N,N,0.0,COLL,Chemical Processing,28.0,C288
+Y,N,Y,35000.0,01,Others,39.0,C140
+N,N,N,0.0,45,CASE,28.0,C214
+N,N,N,0.0,CIA,CASE,28.0,C422
+N,N,N,20000.0,01,Others,39.0,C718
+N,N,N,0.0,01,Chemical Processing,28.0,C531
+N,N,N,0.0,CC,Cleaning (I&I),28.0,C659
+N,N,N,0.0,01,Cleaning (I&I),28.0,C249
+N,N,Y,65000.0,01,Others,39.0,C186
+N,N,N,0.0,01,CASE,28.0,C716
+N,N,N,76000.0,01,Cleaning (I&I),28.0,C345
+N,N,N,20000.0,01,Cleaning (I&I),28.0,C225
+N,N,N,50000.0,01,Others,39.0,C115
+N,N,N,0.0,CIA,Chemical Processing,28.0,C602
+N,N,N,0.0,01,Chemical Processing,28.0,C585
+N,N,N,150000.0,D01,Others,40.0,C409
+Y,Y,Y,70000.0,01,Others,39.0,C295
+N,N,N,25000.0,01,Pharma,38.0,C332
+N,N,N,15000.0,01,Cleaning (I&I),28.0,C708
+Y,Y,Y,0.0,01,Others,52.0,C630
+Y,N,Y,10000.0,60,Others,39.0,C146
+Y,N,Y,30000.0,01,Water Treatment,49.0,C452
+N,N,N,75000.0,01,Others,34.0,C691
+N,Y,N,10000.0,01,Others,39.0,C475
+N,Y,Y,15000.0,01,Others,39.0,C279
+N,N,N,10000.0,01,Others,49.0,C258
+N,N,N,50000.0,01,Others,39.0,C546
+Y,Y,Y,75000.0,01,Others,49.0,C526
+N,N,N,50000.0,01,Others,34.0,C407
+Y,Y,Y,10000.0,01,Water Treatment,49.0,C457
+N,N,N,3000.0,01,Others,52.0,C285
+N,N,N,0.0,45,Others,33.0,C600
+N,N,Y,0.0,CC,Cosmetics,28.0,C450
+N,N,N,0.0,01,Polymers,28.0,C713
+N,N,N,73000.0,01,Chemical Processing,28.0,C525
+N,N,N,0.0,01,Others,35.0,C586
+N,N,N,0.0,CIA,Cosmetics,28.0,C292
+N,N,Y,5000.0,01,Others,36.0,C341
+N,N,N,0.0,45,Food,20.0,C532
+N,N,N,85000.0,01,Chemical Processing,28.0,C339
+Y,N,Y,100000.0,01,Others,34.0,C50
+N,N,N,43000.0,45,Cleaning (I&I),28.0,C269
+N,N,N,70000.0,01,Pharma,28.0,C724
+N,N,N,0.0,D01,Chemical Processing,28.0,C193
+N,N,N,25000.0,01,Cleaning (I&I),28.0,C692
+N,N,N,250000.0,D01,CASE,28.0,C428
+N,N,N,25000.0,01,Others,33.0,C732
+N,N,N,10000.0,01,Cleaning (I&I),28.0,C355
+N,N,Y,0.0,CC,Others,33.0,C665
+N,N,Y,6000.0,01,CASE,28.0,C469
+N,N,N,200000.0,01,Energy Services,13.0,C28
+N,N,N,325000.0,44,CASE,28.0,C211
+N,N,N,100000.0,60,Others,39.0,C247
+Y,N,Y,25000.0,01,Water Treatment,28.0,C12
+N,N,Y,25000.0,01,Water Treatment,28.0,C155
+N,N,N,0.0,CIA,Water Treatment,49.0,C633
+N,N,Y,25000.0,01,Others,34.0,C706
+N,N,Y,750000.0,01,Chemical Processing,28.0,C49
+N,N,N,90000.0,45,Cleaning (I&I),28.0,C33
+N,N,N,55000.0,60,Cosmetics,28.0,C486
+N,N,N,50000.0,45,Others,34.0,C64
+N,N,N,100000.0,D01,Others,49.0,C31
+N,N,N,75000.0,01,Agrobusiness,28.0,C677
+Y,N,Y,5000.0,01,Others,36.0,C261
+N,N,N,0.0,01,Others,39.0,C704
+N,N,N,150000.0,01,Cleaning (I&I),28.0,C298
+Y,N,Y,30000.0,01,CASE,28.0,C27
+N,N,N,95000.0,01,Cleaning (I&I),28.0,C138
+N,N,N,0.0,01,Cleaning (I&I),28.0,C500
+N,N,N,5000.0,01,Others,39.0,C318
+N,N,Y,0.0,02,Cleaning (I&I),28.0,C456
+N,N,N,0.0,02,Cleaning (I&I),28.0,C322
+N,N,N,50000.0,45,Chemical Processing,28.0,C202
+N,N,N,95000.0,01,Chemical Processing,28.0,C134
+N,N,N,0.0,45,Food,20.0,C206
+Y,N,Y,0.0,01,Water Treatment,49.0,C284
+N,N,N,150000.0,01,Rubber,30.0,C376
+N,N,N,600000.0,60,Others,34.0,C1
+N,N,N,150000.0,60,Others,39.0,C276
+N,N,N,75000.0,01,Cosmetics,28.0,C303
+N,N,N,0.0,01,Energy Services,13.0,C198
+N,N,N,25000.0,01,Others,33.0,C199
+N,N,N,0.0,01,Cleaning (I&I),28.0,C578
+N,N,N,35000.0,45,Pulp & Paper,26.0,C57
+N,N,N,0.0,01,Cleaning (I&I),28.0,C435
+N,N,N,100000.0,45,Others,52.0,C5
+N,N,N,0.0,01,Cosmetics,28.0,C655
+N,N,N,75000.0,45,Chemical Processing,28.0,C221
+Y,N,Y,22000.0,01,Others,36.0,C506
+N,N,N,0.0,01,Water Treatment,49.0,C246
+Y,N,Y,25000.0,01,Chemical Processing,28.0,C471
+N,N,N,0.0,01,Others,34.0,C604
+N,N,N,50000.0,01,Others,22.0,C474
+N,N,N,0.0,COLL,CASE,28.0,C645
+N,N,N,150000.0,01,Chemical Processing,28.0,C443
+Y,N,Y,25000.0,01,Others,33.0,C235
+N,N,N,75000.0,45,Chemical Processing,28.0,C242
+N,N,Y,0.0,01,Others,39.0,C21
+N,N,N,250000.0,45,Cleaning (I&I),28.0,C66
+N,N,Y,5000.0,01,Others,36.0,C43
+N,N,Y,100000.0,D 15,Others,39.0,C335
+N,N,N,5000.0,01,Cleaning (I&I),28.0,C82
+Y,N,Y,50000.0,01,Others,39.0,C661
+N,N,Y,50000.0,01,Agrobusiness,28.0,C120
+N,N,N,0.0,45,Chemical Processing,28.0,C358
+N,N,Y,0.0,01,Rubber,30.0,C607
+N,N,N,0.0,BNKR,Cosmetics,28.0,C45
+N,N,N,28000.0,01,Cleaning (I&I),28.0,C599
+Y,N,Y,15000.0,01,Others,39.0,C721
+N,N,N,250000.0,01,Polymers,28.0,C41
+N,N,N,0.0,02,Cleaning (I&I),28.0,C253
+N,N,N,20000.0,60,Others,36.0,C55
+N,N,N,100000.0,01,Cleaning (I&I),28.0,C594
+N,N,N,150000.0,01,Others,39.0,C568
+N,N,N,0.0,01,Construction,32.0,C453
+N,N,Y,0.0,01,Cosmetics,28.0,C584
+N,N,N,0.0,45,CASE,28.0,C477
+N,N,N,0.0,01,Chemical Processing,28.0,C51
+Y,N,Y,0.0,01,Pulp & Paper,26.0,C61
+Y,N,N,95000.0,01,Chemical Processing,28.0,C167
+N,N,N,45000.0,45,Cleaning (I&I),28.0,C386
+Y,N,Y,45000.0,45,Others,33.0,C375
+N,N,N,75000.0,01,Chemical Processing,28.0,C244
+N,N,Y,5000.0,01,Others,36.0,C107
+N,N,N,60000.0,60,Others,39.0,C24
+N,N,N,2000000.0,60,Cleaning (I&I),28.0,C195
+N,N,N,20000.0,01,Cleaning (I&I),28.0,C397
+N,N,N,5000.0,01,CASE,28.0,C487
+N,N,N,0.0,60,Cleaning (I&I),28.0,C458
+N,N,N,125000.0,D260,Cleaning (I&I),28.0,C265
+N,N,N,0.0,45,CASE,28.0,C535
+N,N,N,80000.0,01,Cleaning (I&I),28.0,C102
+N,N,N,350000.0,45,Cleaning (I&I),28.0,C731
+N,N,N,145000.0,01,Food,21.0,C236
+N,N,N,35000.0,01,Cleaning (I&I),28.0,C384
+N,N,N,0.0,01,Chemical Processing,28.0,C589
+Y,N,Y,75000.0,01,Others,34.0,C77
+Y,N,Y,100000.0,01,CASE,28.0,C334
+N,N,Y,40000.0,01,Others,34.0,C623
+N,N,Y,0.0,26,Others,34.0,C533
+Y,N,Y,10000.0,01,Chemical Processing,28.0,C141
+N,N,N,20000.0,45,Others,33.0,C232
+N,N,N,0.0,01,Water Treatment,49.0,C250
+N,N,N,10000.0,01,Cleaning (I&I),28.0,C122
+Y,N,Y,5000.0,01,Water Treatment,49.0,C720
+N,N,N,600000.0,01,Chemical Processing,28.0,C588
+N,N,N,0.0,BNKR,Others,33.0,C446
+Y,N,Y,5000.0,01,Others,36.0,C438
+N,N,N,0.0,01,Cleaning (I&I),28.0,C224
+N,N,N,5000.0,01,Others,36.0,C490
+N,N,N,300000.0,01,Pharma,28.0,C6
+N,N,Y,0.0,02,Construction,32.0,C216
+N,N,N,35000.0,01,Water Treatment,49.0,C627
+N,N,N,55000.0,45,Others,34.0,C73
+N,N,N,70000.0,01,Water Treatment,49.0,C367
+N,N,N,75000.0,45,Others,51.0,C342
+N,N,Y,30000.0,01,Water Treatment,49.0,C380
+N,N,N,1180000.0,60,Others,33.0,C327
+N,N,N,35000.0,01,Pharma,28.0,C513
+N,N,N,75000.0,01,Water Treatment,49.0,C544
+Y,N,Y,10000.0,01,Others,36.0,C183
+N,N,N,0.0,60,Cleaning (I&I),28.0,C598
+Y,N,Y,75000.0,45,Food,20.0,C613
+N,N,N,0.0,CC,Water Treatment,49.0,C300
+N,N,N,0.0,01,Cleaning (I&I),28.0,C682
+N,N,N,65000.0,01,CASE,28.0,C263
+Y,N,Y,10000.0,01,Water Treatment,49.0,C118
+N,N,N,57000.0,01,Cleaning (I&I),28.0,C264
+N,N,N,45000.0,01,Cleaning (I&I),28.0,C616
+N,N,N,75000.0,60,Others,33.0,C75
+N,N,N,0.0,01,Others,22.0,C109
+N,N,N,0.0,01,Others,49.0,C19
+N,N,N,500000.0,01,Others,34.0,C566
+N,N,N,75000.0,01,Water Treatment,49.0,C324
